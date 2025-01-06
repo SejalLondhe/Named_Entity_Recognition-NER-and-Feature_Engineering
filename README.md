@@ -1,0 +1,2 @@
+# Named_Entity_Recognition-NER-and-Feature_Engineering
+ This repository implements machine learning models to predict article engagement. It includes Logistic Regression for classification and Random Forest Regression for predicting numerical engagement scores, using features like sentiment, entity counts, and title length. The Random Forest model outperforms Logistic Regression in predictive accuracy.
